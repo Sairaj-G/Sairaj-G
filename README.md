@@ -1,5 +1,5 @@
 Hi there ! 
-I'm Sairaj Ghosarwadkar, a pre-final year-ite from the Indian Institute of Technology, Guwahati. 
+I'm Sairaj Ghosarwadkar, a final year-ite from the Indian Institute of Technology, Guwahati. 
 I have my major in Electronics and Communications Engineering and a minor in Computer Science and Engineering. 
 
 
